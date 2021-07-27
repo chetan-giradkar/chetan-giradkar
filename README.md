@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="chetan-giradkar | LinkedIn" width="22px" src="./linkedin.svg" style="border-radius:10%"/>][linkedin]&nbsp;
+[<img align="left" alt="chetan-giradkar | LinkedIn" width="22px" src="https://github.com/chetan-giradkar/chetan-giradkar/blob/master/linkedIn.svg?raw=true" style="border-radius:10%"/>][linkedin]&nbsp;
 [<img alt="chetan-giradkar | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" style="border-radius:20%" />][instagram]&nbsp;
 [<img alt="chetan-giradkar | Instagram" width="34px" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" style="border-radius:20%" />][medium]&nbsp;
 
