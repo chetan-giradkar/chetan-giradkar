@@ -10,7 +10,7 @@
 - 🎓 I have graduated in Computer Engineering from PICT, Pune
 - 🏫 I’m currently learning GraphQL <img alt="GraphQL" width="16px" src="https://graphql.org/img/logo.svg" />
 - 👯 I like to make microservices in Golang <img alt="Golang" width="28px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
-- 🥅 2021 Goals: Contribute to Open Source projects <img alt="OSI" width="16px" src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" />
+- 🥅 2022 Goals: Contribute to Open Source projects <img alt="OSI" width="16px" src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" />
 - ⚡ Hobbies: I love listening to music 🎧, watching movies 🎥, playing FPS games 🎮, cooking 🧑‍🍳 and many more
 
 
