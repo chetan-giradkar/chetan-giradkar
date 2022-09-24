@@ -1,5 +1,9 @@
 ### Hi there, I'm Chetan Giradkar - aka sarv_saktisaali 👋
 
+### Showcase: 
+#### [Core-UI]: https://chetan-giradkar.github.io/core-ui/
+#### [CodePen]: https://codepen.io/giradkarchetan
+
 ## I'm a Developer, Coder, Gamer and Learner!!
 
 - 💼 I am a professional until recently, was working with Talentica Software &nbsp;<img alt="Talentica Software" width="20px" src="https://d361nn0tbycf2u.cloudfront.net/company/AYdMN8gBLCNpTYaor_c/agent/FcMC26GsmyWFvitK5/1614083586752_original.png" />
