@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Coder, Gamer and Learner!!
 
-- 💼 I am a professional currently working with Talentica Software &nbsp;<img alt="Talentica Software" width="20px" src="https://d361nn0tbycf2u.cloudfront.net/company/AYdMN8gBLCNpTYaor_c/agent/FcMC26GsmyWFvitK5/1614083586752_original.png" />
+- 💼 I am a professional until recently, was working with Talentica Software &nbsp;<img alt="Talentica Software" width="20px" src="https://d361nn0tbycf2u.cloudfront.net/company/AYdMN8gBLCNpTYaor_c/agent/FcMC26GsmyWFvitK5/1614083586752_original.png" />
 - 🎓 I have graduated in Computer Engineering from PICT, Pune
 - 🏫 I’m currently learning GraphQL <img alt="GraphQL" width="16px" src="https://graphql.org/img/logo.svg" />
 - 👯 I like to make microservices in Golang <img alt="Golang" width="28px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
